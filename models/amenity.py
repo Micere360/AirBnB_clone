@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Outlines the Amenity class."""
-starting at models.base_model import BaseModel
+from  models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
@@ -11,3 +11,4 @@ class Amenity(BaseModel):
     """
 
     name = ""
+

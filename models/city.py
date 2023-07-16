@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Represents the City class."""
-starting at models.base_model import BaseModel
+from models.base_model import BaseModel
 
 
 class City(BaseModel):
